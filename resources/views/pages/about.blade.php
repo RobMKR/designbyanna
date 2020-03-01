@@ -2,12 +2,13 @@
 <html lang="zxx">
 
 <head>
-    <title> Designsbyanna | About</title>
+    <title> Designs By Anna | About</title>
 
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta name="keywords" content="Designsbyanna" />
+    <meta name="keywords" content="Designs By Anna" />
+    <link rel="icon" type="image/png" href="images/fav.png" />
     <script>
         addEventListener("load", function() {
             setTimeout(hideURLbar, 0);
@@ -45,7 +46,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <h1><a class="navbar-brand" href="/">
-                        <span class="fab fa-osi"></span>  Designsbyanna
+                        <span class="fab fa-osi"></span>  Designs By Anna
                     </a></h1>
                 <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -104,15 +105,15 @@
                 <div class="col-lg-6 about-right">
                     <h3>About Us</h3>
                     <h4>Showcase your work in a new way</h4>
-                    <p class="my-4">Designsbyanna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background.
+                    <p class="my-4">Designs By Anna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background.
                         We’re delighted to be in partnership with some leading designers in
                         interiors to bring you our exclusive collections. Everyone who designs
-                        pieces for Designsbyanna or collaborates with us has an individual talent, expertise
+                        pieces for Designs By Anna or collaborates with us has an individual talent, expertise
                         and passion - the unique combination of which is reflected in our selection,
                         featuring everything from lifelike faux flower bunches to eco-friendly, perfectly coloured paint.
 
                         <br>
-                        To make great design accessible to everyone, we have started Designsbyanna. To help make it easy for people to create an amazing space,
+                        To make great design accessible to everyone, we have started Designs By Anna. To help make it easy for people to create an amazing space,
                         that reflects their personal style, all within their budget.
 
                         Your home does not have to look like a magazine.
@@ -126,7 +127,7 @@
             <div class="row mt-lg-5 mt-4">
                 <div class="col-lg-6 about-right bar-grids">
                     <h2 class="mb-4">Happiness guarantee</h2>
-                    <p class="mb-5">If you’re not happy, we’re not happy. We work tirelessly to make sure your Designsbyanna experience is delightful. That’s why we offer the Designsbyanna Happiness Guarantee.
+                    <p class="mb-5">If you’re not happy, we’re not happy. We work tirelessly to make sure your Designs By Anna experience is delightful. That’s why we offer the Designs By Anna Happiness Guarantee.
                         You’ll work collaboratively with your designer at your convenience throughout the design process, with access to our messaging platform from any device for sharing ideas and giving feedback.
                         Your designer incorporates feedback into the final room design and layout with a list of furniture and accessories to shop in one easy checkout.
                     </p>
@@ -167,7 +168,7 @@
                 </div>
                 <div class="col-lg-5 about-right slider-right-con stats-left">
                     <h4 class="mb-4">Our Stats</h4>
-                    <p class="mt-3">Designsbyanna does the heavy-lifting of bringing clients to you. Our marketing team is constantly hard at work keeping designer capacities full. </p>
+                    <p class="mt-3">Designs By Anna does the heavy-lifting of bringing clients to you. Our marketing team is constantly hard at work keeping designer capacities full. </p>
                     <div class="stats_info counter_grid my-3">
                         <div class="icon">
                             <i class="fa fa-home" aria-hidden="true"></i>
@@ -205,13 +206,12 @@
         <div class="row">
             <div class="col-lg-4 footer-grid-w3ls">
                 <h3 class="mb-4">About Us</h3>
-                <p>Designsbyanna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background. </p>
+                <p>Designs By Anna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background. </p>
 
             </div>
             <div class="col-lg-4 footer-grid-w3ls">
-                <h3 class="mb-4">Address</h3>
+                <h3 class="mb-4">Contacts</h3>
                 <address class="mb-0">
-                    <p class="mb-2"><i class="fas fa-map-marker-alt"></i> 317 Delaware Rd Unit C<br> Burbank, CA.</p>
                     <p><i class="fas mr-1 fa-phone"></i> +1 (818) 254-5810</p>
                     <p><i class="far mr-1 fa-envelope-open"></i> <a href="mailto:sales@designsbyanna.net">sales@designsbyanna.net</a></p>
                 </address>
@@ -235,7 +235,7 @@
         </div>
     </div>
     <div class="copyright-w3layouts mt-md-5 mt-4 text-center">
-        <p>© Designsbyanna . All Rights Reserved | Design by <a href="https://mgplabs.com" target="_blank">MGPLab</a></p>
+        <p>© Designs By Anna . All Rights Reserved | Design by <a href="https://mgplabs.com" target="_blank">MGPLab</a></p>
     </div>
 </footer>
 <!-- //footer -->

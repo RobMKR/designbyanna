@@ -2,12 +2,13 @@
 <html lang="zxx">
 
 <head>
-    <title> Designsbyanna | Services</title>
+    <title> Designs By Anna | Services</title>
 
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta name="keywords" content="Designsbyanna" />
+    <meta name="keywords" content="Designs By Anna" />
+    <link rel="icon" type="image/png" href="images/fav.png" />
     <script>
         addEventListener("load", function() {
             setTimeout(hideURLbar, 0);
@@ -45,7 +46,9 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <h1><a class="navbar-brand" href="/">
-                        <span class="fab fa-osi"></span>  Designsbyanna
+                        <div class="logo">
+                            <img src="images/logo.png" alt="">
+                        </div>  Designs By Anna
                     </a></h1>
                 <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -106,7 +109,7 @@
                         We can help you create interiors that are a true reflection of you,
                         the residents who call our projects home. We focus on designing spaces that represent your
                         personal style and functionality needs, paired with our unique and timeless design concepts.
-                        Our goal is to guide you through this process in an easy and fun way, so the Designsbyanna team is skilled in
+                        Our goal is to guide you through this process in an easy and fun way, so the Designs By Anna team is skilled in
                         handling all aspects of a design job, including project management, budget review, and collaborating with architects and builders.
                         Together, we can create the home of your dreams.
                     </p>
@@ -239,13 +242,12 @@
         <div class="row">
             <div class="col-lg-4 footer-grid-w3ls">
                 <h3 class="mb-4">About Us</h3>
-                <p>Designsbyanna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background. </p>
+                <p>Designs By Anna is USA’s high-end and full service interior design company. We develop relationship with our clients that last beyond a single project. Our team possess multi-talented professionals having broad and deep experience in variety of aspects of the architecture and interior design disciplines and significant design background. </p>
 
             </div>
             <div class="col-lg-4 footer-grid-w3ls">
-                <h3 class="mb-4">Address</h3>
+                <h3 class="mb-4">Contacts</h3>
                 <address class="mb-0">
-                    <p class="mb-2"><i class="fas fa-map-marker-alt"></i> 317 Delaware Rd Unit C<br> Burbank, CA.</p>
                     <p><i class="fas mr-1 fa-phone"></i> +1 (818) 254-5810</p>
                     <p><i class="far mr-1 fa-envelope-open"></i> <a href="mailto:sales@designsbyanna.net">sales@designsbyanna.net</a></p>
                 </address>
@@ -269,7 +271,7 @@
         </div>
     </div>
     <div class="copyright-w3layouts mt-md-5 mt-4 text-center">
-        <p>© Designsbyanna . All Rights Reserved | Design by <a href="https://mgplabs.com" target="_blank">MGPLab</a></p>
+        <p>© Designs By Anna . All Rights Reserved | Design by <a href="https://mgplabs.com" target="_blank">MGPLab</a></p>
     </div>
 </footer>
 <!-- //footer -->
